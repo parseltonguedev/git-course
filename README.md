@@ -113,3 +113,40 @@ Make a commit.
 ![](/img/28_2.png)
 ![](/img/28_3.png)
 ![](/img/28_4.png)
+
+
+# Hurt Me Plenty
+
+#### 1. Create a storm branch and add a commit to the storm.txt file:
+
+Twenty ships with Norsemen braves
+Riding the northern wind
+
+![](/img/29.png)
+![](/img/29_1.png)
+![](/img/29_2.png)
+
+#### 2. Add 2 more lines to storm.txt and make another commit:
+
+They left their shores at early dawn
+As a red sun was rising in the east
+
+![](/img/30.png)
+![](/img/30_1.png)
+
+#### 3. Return to master and create the pursuit.txt file with the text below:
+
+The warming sun returns again
+And melts away the snow
+The sea is freed from icy chains
+Winter is letting go
+
+Make a commit.
+
+![](/img/31.png)
+![](/img/31_1.png)
+
+
+#### 4. Mark the commit with session1 tag and go to the storm branch.
+
+#### 5. Rebase the storm branch so that it contains the last commit from the master.
