@@ -157,3 +157,28 @@ Make a commit.
 
 ![](/img/33.png)
 
+
+# Hardcore
+
+
+1. Make a push of your repository and make sure all commits are on github.
+
+![](/img/34.png)
+![](/img/34_1.png)
+
+2. Make a new repository on github.
+
+![](/img/35.png)
+
+3. Change the remote repository into the local one so that fetch and push come to to the new repository that was created in the previous step.
+
+![](/img/36.png)
+
+4. Make a push and make sure that the second repository on the github looks the same as the first.
+
+![](/img/36_1.png)
+![](/img/36_2.png)
+
+5. Return the remote settings to their initial state: pull and push of the first local repository lead to one remote repository on the github.
+
+![](/img/37.png)
