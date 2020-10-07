@@ -66,3 +66,50 @@ Make a commit and send it to the server
 
 ![](/img/19.png)
 ![](/img/20.png)
+
+# Bring It On
+
+#### 1. Add a .gitignore file to the project and configure it to hide files with the extension .db, .log and directories with the names target or bin.
+
+![](/img/21.png)
+![](/img/22.png)
+![](/img/23.png)
+
+#### 2. Create a feature branch and add two commits to it
+
+![](/img/24.png)
+![](/img/24_1.png)
+
+#### 3. Merge the feature branch in master
+
+![](/img/25.png)
+
+#### 4. Return to feature and create the arrows.txt file with the following contents:
+
+The ship glides gently on the waves
+As day turns into night
+
+Make a commit.
+
+![](/img/26.png)
+![](/img/26_1.png)
+![](/img/26_2.png)
+
+#### 5. Go to master. Create the arrows.txt file there and add the following text:
+
+One thousand burning arrows
+
+Fill the starlit sky
+
+Make a commit.
+
+![](/img/27.png)
+![](/img/27_1.png)
+
+#### 6. Merge feature in master resolving the conflict: save all 4 lines in arrows.txt file in the order they were added in steps 4 and 5.
+
+![](/img/28.png)
+![](/img/28_1.png)
+![](/img/28_2.png)
+![](/img/28_3.png)
+![](/img/28_4.png)
