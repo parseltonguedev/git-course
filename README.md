@@ -149,4 +149,11 @@ Make a commit.
 
 #### 4. Mark the commit with session1 tag and go to the storm branch.
 
+![](/img/32.png)
+![](/img/32_1.png)
+
+
 #### 5. Rebase the storm branch so that it contains the last commit from the master.
+
+![](/img/33.png)
+
